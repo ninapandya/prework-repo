@@ -1,4 +1,4 @@
-## Prework App
+## Hello World App
 
 ### App Description
 This app degins with a default view which can be customized upon pressing the buttons below. Change text button will change the text to whatever is in the textField at the top. If nothing is present, it will print "Goodbye!" in the text label. Change text color changed the color of the text from black to green. Change view color will change the background from the default to green. Pressing anywhere on the view color will reset the customizations to the default.  
